@@ -8,7 +8,7 @@ Uses [Sass](https://sass-lang.com/) compiled down to normal CSS.
 
 ### Why?
 
-Eyesore.
+Because i want to.
 
 ### Installation?
 
@@ -27,8 +27,8 @@ spicetify apply
 
 ### And?
 
-i'm still testing this out
+works as of 2nd April 2025
 
 ### Pics?
 
-to be uploaded
+![image](https://files.catbox.moe/ijhtls.png)
