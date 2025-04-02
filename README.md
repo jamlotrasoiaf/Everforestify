@@ -1,9 +1,9 @@
-# Gruvify
-## Gruvbox spotify theme
+# Everforestify
+## Everforest spotify theme
 
 ### What?
 
-A [spicetify](https://spicetify.app/) theme customized to the [gruvbox](https://github.com/gruvbox-community/gruvbox) palette.
+A [spicetify](https://spicetify.app/) theme customized to the [everforest](https://github.com/sainnhe/everforest) palette.
 Uses [Sass](https://sass-lang.com/) compiled down to normal CSS.
 
 ### Why?
@@ -14,34 +14,21 @@ Eyesore.
 
 Do the following in the spicetify `Themes` folder:
 ```sh
-git clone https://github.com/Skaytacium/Gruvify
-cd Gruvify
+git clone https://github.com/jamlotrasoiaf/Everforestify
+cd Everforestify
 npm i -g sass
 sass user.sass user.css
 ```
-Change the theme to `Gruvify`
+Change the theme to `Everforestify`
 ```sh
-spicetify config current_theme Gruvify
+spicetify config current_theme Everforestify
 spicetify apply
 ```
 
 ### And?
 
-~~Supports spicetify's [bookmark extension](https://spicetify.app/docs/advanced-usage/extensions/#bookmark).~~ It still does, but, on older versions (check the tricolor branch).
-
-The `main` branch is based on the current Spotify CSS map, the `tricolor` branch is based on the older one, it supports vim keys and bookmarks theming as well (since those extensions aren't available for the newer versions, I can't theme them).
-
-Last working versions (17/3/2025)
-
-
-Spotify für Windows (64 Bit)
-Spotify: `1.2.59.514.g834e17d4`
-CSS map: `???`
-Spicetify: `v2.39.5`
+i'm still testing this out
 
 ### Pics?
 
-![image](https://github.com/user-attachments/assets/c77c84c8-16c7-400f-8ccc-5b77870e2104)
-![image](https://github.com/user-attachments/assets/bcb6e7a9-8118-4520-a539-15408eeef5fd)
-![image](https://github.com/user-attachments/assets/567d13b8-04a0-4378-b989-37d1fada17f7)
-![image](https://github.com/user-attachments/assets/32c53395-ddd6-49d1-9fca-86aeef9d0c1f)
+to be uploaded
